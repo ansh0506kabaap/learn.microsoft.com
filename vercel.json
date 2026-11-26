@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/en-us/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/users/:path*",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
